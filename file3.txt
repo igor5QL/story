@@ -1,2 +1,4 @@
 The final chapter of the book started. 
 /First change done to file 3
+/second test being done
+/add to stage
